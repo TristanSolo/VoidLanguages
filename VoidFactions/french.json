@@ -2,8 +2,8 @@
     "profile": "Profil",
     "level": "Niveau",
     "rank": "Rang",
-    "deposit": "Dépôt",
-    "rewards": "Récompenses",
+    "deposit": "DÉpÔt",
+    "rewards": "RÉCOMPENSES",
 
     "lastPromote": "Dernière promotion",
     "autoPromote": "Promotion automatique",
@@ -20,20 +20,20 @@
 
     "withdraw": "Retirer",
 
-    "currentJob": "Job actuel",
-    "changeJob": "Changer de job",
+    "currentJob": "Emploi actuel",
+    "changeJob": "Changer d'emploi",
     "changeRank": "Changer de rang",
 
     "assets": "Atouts",
 
-    "createFaction": "Créer une faction",
+    "createFaction": "CrÉer une faction",
     "joinFaction": "Rejoindre une faction",
     
     "createFactionOrJoin": "Créez une faction ou rejoignez-en une",
     "noFactionText": "Vous pouvez soit créer une nouvelle faction et en être le chef, soit vous joindre à une faction existante.",
     "factionCreateCost": "La création d'une nouvelle faction coûte :color: :money:.",
 
-    "select": "Sélectionner",
+    "select": "SÉlectionner",
     "create": "Créer",
 
     "factions": "Factions",
@@ -52,8 +52,8 @@
     "suitedForSerious": "Convient pour du SeriousRP",
     "suitedForNonSerious": "Convient pour du Non-SeriousRP",
 
-    "addFaction": "Ajouter une nouvelle faction",
-    "addRank": "Ajouter un nouveau rang",
+    "addFaction": "Ajouter une faction",
+    "addRank": "Ajouter un rang",
     "addMember": "Ajouter un membre",
 
     "newFaction": "Nouvelle Faction",
@@ -67,7 +67,7 @@
     "editUpgrade": "Éditer l'amélioration :name:",
     "editReward": "Éditer la récompense :name:",
 
-    "reward": "Récompense",
+    "reward": "RÉcompense",
 
     "general": "Général",
     "permissions": "Permissions",
@@ -75,11 +75,11 @@
 
     "name": "Nom",
     "description": "Description",
-    "factionTag": "Tag de fation",
+    "factionTag": "Tag de faction",
     "subfactionOf": "Sous-faction de",
     "factionColor": "Couleur de faction",
-    "icon": "Icône",
-    "factionIcon": "Icône de faction",
+    "icon": "IcÔne",
+    "factionIcon": "IcÔne de faction",
     "maxMembers": "Membres max",
 
     "canCaptureTerritory": "Peut capturer un territoire",
@@ -92,10 +92,10 @@
     "noRanksAvailable": "Aucun rangs disponibles!",
 
     "rankTag": "Tag de rang",
-    "job": "Job",
+    "job": "Emploi",
 
     "ranking": "Classement",
-    "totalUpgrades": "Améliorations totales",
+    "totalUpgrades": "AmÉliorations totales",
 
     "showingPagination": "Montrer :from:-:to:",
     "page": "Page",
@@ -104,8 +104,8 @@
     "createUpgrade": "Créer une amélioration",
     "deleteUpgrade": "Supprimer une amélioration",
 
-    "createReward": "Créer une récompense",
-    "deleteReward": "Supprimer une récompense",
+    "createReward": "CrÉer une rÉcompense",
+    "deleteReward": "Supprimer une rÉcompense",
 
     "upgradeModule": "Module d'amélioration",
     "rewardModule": "Module de récompense",
@@ -113,19 +113,19 @@
 
     "tools": "Outils",
 
-    "upgradeCount": ":x: Améliorations",
-    "rewardCount": ":x: Récompenses",
+    "upgradeCount": ":x: AmÉliorations",
+    "rewardCount": ":x: RÉcompenses",
 
     "price": "Prix",
 
     "you": "Vous",
 
-    "kick": "Expulser",
+    "kick": "virer",
     "inviteMembers": "Inviter des membres",
     "kickMembers": "Expulser des membres",
 
     "promoteMembers": "Promouvoir des membres",
-    "demoteMembers": "Rétrograder des membres",
+    "demoteMembers": "RÉtrograder des membres",
 
     "setRanks": "Définir les rangs",
 
@@ -133,11 +133,11 @@
     "purchaseUpgrades": "Acheter des améliorations",
 
     "canWithdrawMoney": "Retirer de l'argent",
-    "canDepositMoney": "Déposer de l'argent",
+    "canDepositMoney": "DÉposer de l'argent",
     "canWithdrawItems": "Retirer des objets",
     "canDepositItems": "Déposer des objets",
 
-    "depositMoney": "Déposer de l'argent",
+    "depositMoney": "DÉposer de l'argent",
     "withdrawMoney": "Retirer de l'argent",
 
     "depositMoneyText": "Entrez le montant que vous souhaitez déposer.",
@@ -164,11 +164,23 @@
     "connectorTool": "Outil de connexion",
     "addUpgrade": "Ajouter une nouvelle amélioration",
 
-    "moneyRewarded": "Argent gagné",
-    "xpRewarded": "XP gagné",
+    "moneyRewarded": "Argent gagnÉ",
+    "xpRewarded": "XP gagnÉ",
 
-    "reward_pointscaptured": "Points Capturés",
-    "reward_desc_pointscaptured": "Combien de points faut-il capturer au total pour débloquer cela?",
+    "reward_pointscaptured": "Points capturés",
+    "reward_desc_pointscaptured": "Combien de points doivent être capturés au total pour débloquer?",
+
+    "reward_itemsdeposited": "Objets déposés",
+    "reward_desc_itemsdeposited": "Combien d'objets doivent être déposés à la fois pour déverrouiller cela?",
+
+    "reward_moneydeposited": "Argent déposé",
+    "reward_desc_moneydeposited": "Combien d'argent doit être déposé à la fois pour débloquer cela?",
+
+    "reward_upgradesdeposited": "Améliorations déverrouillées",
+    "reward_desc_upgradesdeposited": "Combien d'améliorations doivent être débloquées au total pour déverrouiller cela?",
+
+    "reward_membersjoined": "Membres rejoints",
+    "reward_desc_membersjoined": "Combien de membres devraient être dans une faction à la fois pour débloquer ceci?",
 
     "upgr_speedboost": "Boost de vitesse",
     "upgr_desc_speedboost": "Augmente la vitesse de déplacement des joueurs.",
@@ -299,7 +311,7 @@
 
     "unlock": "Déverouiller",
     "neededToUnlock": "Nécessaire pour déverrouiller",
-    "details": "Détails",
+    "details": "DÉtails",
     "viewDetails": "Voir les détails",
     "join": "Rejoindre",
     "lastSeen": "Dernièrement vue",
@@ -318,7 +330,7 @@
     "leaveFaction": "Quitter la faction",
 
     "accept": "Accepter",
-    "deny": "Nier",
+    "deny": "Refuser",
     
     "cancel": "Annuler",
 
@@ -329,7 +341,7 @@
     "members": "Membres",
     "actions": "Actions",
 
-    "manage": "Gérer",
+    "manage": "GÉrer",
     "disband": "Dissoudre",
     "delete": "Supprimer",
 
